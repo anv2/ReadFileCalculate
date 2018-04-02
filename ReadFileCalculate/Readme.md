@@ -21,6 +21,6 @@ The output is printed to terminal.</br>
 File is chosen by typing into terminal the path of the file. The application comes with one starter csv file named "records.csv" that could be tested with. If you have a file you'd like to use, add the file to your package containing the provided code (outside of src folder), and the name of the file would likely be filename.csv.
 </br>
 
-![alt text](https://github.com/anv2/ReadFileCalculate/blob/master/ReadFileCalculate/ImagesReadFileCalculate/path.png =50x)
+![alt text](https://github.com/anv2/ReadFileCalculate/blob/master/ReadFileCalculate/ImagesReadFileCalculate/path.png|50x50)
 </br>
 After choosing a csv file to compute, the user is prompted to enter a number from 0 to 4, which corresponds to computation options from a to e mentioned in the above paragraph. </br>
