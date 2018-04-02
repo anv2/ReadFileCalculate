@@ -1,0 +1,29 @@
+README
+## Read file and Calculate
+
+
+Contents</br>
+Introduction</br>
+Documentation</br>
+
+### Introduction</br>
+This application could be used to process any csv file with a format comprising of four columns of data types String, String, Integer, and String. The fields for these data types are Name, Date of birth, Annual Salary, and Role. </br>
+Specifically, this application takes the input file and calculation type as arguments using the command line. After parsing the file, it finds the following:</br>
+a. Total salary in dollars. </br>
+b. Total salary in dollars grouped by role. </br>
+c. Total salary in dollars by time unit (hour, week, month). </br>
+d. Total salary in dollars by time unit grouped by role. </br>
+e. Grouping of people whose annual salary are as close to the input salary L without going over L. Hence, the parameter is salary limit L. The output is a group of employees.</br>
+The output is printed to terminal.</br>
+
+###Documentation</br>
+After choosing a csv file to compute, the user is prompted to enter a number from 0 to 4, which corresponds to computation options from a to e mentioned in the above paragraph. </br>
+Option 0</br>
+
+Option 1</br>
+
+Option 2</br>
+
+Option 3</br>
+
+Option 4</br>
