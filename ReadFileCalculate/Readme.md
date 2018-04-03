@@ -3,8 +3,8 @@ README
 
 
 # Contents</br>
-[Introduction](#introduction)
-[Documentation](#documentation)
+[Introduction](#introduction) </br>
+[Documentation](#documentation) </br>
 
 ## Introduction <a id="introduction"></a>
 This application could be used to process any csv file with a format comprising of four columns of data types String, String, Integer, and String. The fields for these data types are Name, Date of birth, Annual Salary, and Role. </br>
