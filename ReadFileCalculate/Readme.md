@@ -18,7 +18,12 @@ The output is printed to terminal.</br>
 
 ## Documentation <a id="documentation"></a>
 
-File is chosen by typing into terminal the path of the file. The application comes with one starter csv file named "records.csv" that could be tested with. If you have a file you'd like to use, add the file to your package containing the provided code (outside of src folder), and the name of the file would likely be filename.csv.
+File is chosen by typing into terminal the path of the file.
+</br>
+
+![alt text|100X50](https://github.com/anv2/ReadFileCalculate/blob/master/ReadFileCalculate/ImagesReadFileCalculate/fileLocation.png)
+</br>
+The application comes with one starter csv file named "records.csv" that could be tested with. If you have a file you'd like to use, add the file to your package containing the provided code (outside of src folder), and the name of the file would likely be filename.csv.
 </br>
 
 ![alt text|100X50](https://github.com/anv2/ReadFileCalculate/blob/master/ReadFileCalculate/ImagesReadFileCalculate/path.png)
