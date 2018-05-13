@@ -17,15 +17,15 @@ e. Grouping of people whose annual salary are as close to the input salary limit
 The output is printed to terminal.</br>
 
 ## Documentation <a id="documentation"></a>
-
-File is chosen by typing into terminal the path of the file.
+</br>
+The application comes with one starter csv file named "records.csv" that could be used to help set up files. If you have a file you'd like to use, add the file to your package containing the provided code (outside of src folder), and the name of the file would likely be filename.csv.
 </br>
 
 ![alt text|100X50](https://github.com/anv2/ReadFileCalculate/blob/master/ReadFileCalculate/ImagesReadFileCalculate/fileLocation.png)
 </br>
-The application comes with one starter csv file named "records.csv" that could be tested with. If you have a file you'd like to use, add the file to your package containing the provided code (outside of src folder), and the name of the file would likely be filename.csv.
-</br>
 
+File is chosen by typing into terminal the path of the file.
+</br>
 ![alt text|100X50](https://github.com/anv2/ReadFileCalculate/blob/master/ReadFileCalculate/ImagesReadFileCalculate/path.png)
 </br>
 After choosing a csv file to compute, the user is prompted to enter a number from 0 to 4, which corresponds to computation options from a to e mentioned in the above paragraph. </br>
